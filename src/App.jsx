@@ -7,13 +7,7 @@ import './style.scss';
 
 function App() {
   return (
-    <div className="home">
-      <div className="container">
-        <Sidebar />
-        <Chat />
-      </div>
-      
-    </div>
+    <Register />
   )
 }
 
